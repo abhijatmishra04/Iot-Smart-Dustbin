@@ -1,2 +1,2 @@
-# Iot-Smart-Dustbin
-IoT based Waste Segregator Smart Dustbin
+# Iot Based waste segregator
+smart dustbin
