@@ -12,7 +12,7 @@ void setup()
    Serial.begin(9600);
    myservo1.attach(7); //wet comp.
    myservo2.attach(8); //metal comp.
-   myservo1.attach(9); //dry comp.
+   myservo3.attach(9); //dry comp.
 }
 void loop() 
 {
